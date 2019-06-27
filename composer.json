@@ -1,0 +1,11 @@
+{
+  "name": "freel/beejee",
+  "require": {
+    "ext-mysqli": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "App/"
+    }
+  }
+}
